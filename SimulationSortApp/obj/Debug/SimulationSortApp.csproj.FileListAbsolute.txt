@@ -1,0 +1,62 @@
+c:\users\huỳnhphươngduy\source\repos\SimulationSortApp\SimulationSortApp\bin\Debug\SimulationSortApp.exe.config
+c:\users\huỳnhphươngduy\source\repos\SimulationSortApp\SimulationSortApp\bin\Debug\SimulationSortApp.exe
+c:\users\huỳnhphươngduy\source\repos\SimulationSortApp\SimulationSortApp\bin\Debug\SimulationSortApp.pdb
+c:\users\huỳnhphươngduy\source\repos\SimulationSortApp\SimulationSortApp\obj\Debug\SimulationSortApp.Form1.resources
+c:\users\huỳnhphươngduy\source\repos\SimulationSortApp\SimulationSortApp\obj\Debug\SimulationSortApp.Properties.Resources.resources
+c:\users\huỳnhphươngduy\source\repos\SimulationSortApp\SimulationSortApp\obj\Debug\SimulationSortApp.csproj.GenerateResource.cache
+c:\users\huỳnhphươngduy\source\repos\SimulationSortApp\SimulationSortApp\obj\Debug\SimulationSortApp.csproj.CoreCompileInputs.cache
+c:\users\huỳnhphươngduy\source\repos\SimulationSortApp\SimulationSortApp\obj\Debug\SimulationSortApp.csproj.CopyComplete
+c:\users\huỳnhphươngduy\source\repos\SimulationSortApp\SimulationSortApp\obj\Debug\SimulationSortApp.exe
+c:\users\huỳnhphươngduy\source\repos\SimulationSortApp\SimulationSortApp\obj\Debug\SimulationSortApp.pdb
+c:\users\huỳnhphươngduy\source\repos\SimulationSortApp\SimulationSortApp\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\huỳnhphươngduy\source\repos\SimulationSortApp\SimulationSortApp\obj\Debug\SimulationSortApp.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Project LTTQ\SimulationSort1\SimulationSortApp\bin\Debug\SimulationSortApp.exe.config
+C:\Users\Admin\Desktop\Project LTTQ\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.exe
+C:\Users\Admin\Desktop\Project LTTQ\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.pdb
+C:\Users\Admin\Desktop\Project LTTQ\SimulationSort1\SimulationSortApp\bin\Debug\SimulationSortApp.exe
+C:\Users\Admin\Desktop\Project LTTQ\SimulationSort1\SimulationSortApp\bin\Debug\SimulationSortApp.pdb
+C:\Users\Admin\Desktop\Project LTTQ\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Project LTTQ\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.Form1.resources
+C:\Users\Admin\Desktop\Project LTTQ\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.Properties.Resources.resources
+C:\Users\Admin\Desktop\Project LTTQ\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.csproj.GenerateResource.Cache
+C:\Users\HuỳnhPhươngDuy\Desktop\SimulationSort\SimulationSortApp\bin\Debug\SimulationSortApp.exe.config
+C:\Users\HuỳnhPhươngDuy\Desktop\SimulationSort\SimulationSortApp\bin\Debug\SimulationSortApp.exe
+C:\Users\HuỳnhPhươngDuy\Desktop\SimulationSort\SimulationSortApp\bin\Debug\SimulationSortApp.pdb
+C:\Users\HuỳnhPhươngDuy\Desktop\SimulationSort\SimulationSortApp\obj\Debug\SimulationSortApp.Form1.resources
+C:\Users\HuỳnhPhươngDuy\Desktop\SimulationSort\SimulationSortApp\obj\Debug\SimulationSortApp.Properties.Resources.resources
+C:\Users\HuỳnhPhươngDuy\Desktop\SimulationSort\SimulationSortApp\obj\Debug\SimulationSortApp.csproj.GenerateResource.cache
+C:\Users\HuỳnhPhươngDuy\Desktop\SimulationSort\SimulationSortApp\obj\Debug\SimulationSortApp.csproj.CoreCompileInputs.cache
+C:\Users\HuỳnhPhươngDuy\Desktop\SimulationSort\SimulationSortApp\obj\Debug\SimulationSortApp.csproj.CopyComplete
+C:\Users\HuỳnhPhươngDuy\Desktop\SimulationSort\SimulationSortApp\obj\Debug\SimulationSortApp.exe
+C:\Users\HuỳnhPhươngDuy\Desktop\SimulationSort\SimulationSortApp\obj\Debug\SimulationSortApp.pdb
+C:\Users\HuỳnhPhươngDuy\Desktop\SimulationSort\New folder\SimulationSort1\SimulationSortApp\bin\Debug\SimulationSortApp.exe.config
+C:\Users\HuỳnhPhươngDuy\Desktop\SimulationSort\New folder\SimulationSort1\SimulationSortApp\bin\Debug\SimulationSortApp.exe
+C:\Users\HuỳnhPhươngDuy\Desktop\SimulationSort\New folder\SimulationSort1\SimulationSortApp\bin\Debug\SimulationSortApp.pdb
+C:\Users\HuỳnhPhươngDuy\Desktop\SimulationSort\New folder\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.csprojAssemblyReference.cache
+C:\Users\HuỳnhPhươngDuy\Desktop\SimulationSort\New folder\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.Form1.resources
+C:\Users\HuỳnhPhươngDuy\Desktop\SimulationSort\New folder\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.Properties.Resources.resources
+C:\Users\HuỳnhPhươngDuy\Desktop\SimulationSort\New folder\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.csproj.GenerateResource.cache
+C:\Users\HuỳnhPhươngDuy\Desktop\SimulationSort\New folder\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.csproj.CoreCompileInputs.cache
+C:\Users\HuỳnhPhươngDuy\Desktop\SimulationSort\New folder\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.csproj.CopyComplete
+C:\Users\HuỳnhPhươngDuy\Desktop\SimulationSort\New folder\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.exe
+C:\Users\HuỳnhPhươngDuy\Desktop\SimulationSort\New folder\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.pdb
+C:\Users\Vinh Nguyen\Documents\GitHub\SimulationSort1\SimulationSortApp\bin\Debug\SimulationSortApp.exe.config
+C:\Users\Vinh Nguyen\Documents\GitHub\SimulationSort1\SimulationSortApp\bin\Debug\SimulationSortApp.exe
+C:\Users\Vinh Nguyen\Documents\GitHub\SimulationSort1\SimulationSortApp\bin\Debug\SimulationSortApp.pdb
+C:\Users\Vinh Nguyen\Documents\GitHub\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.csprojResolveAssemblyReference.cache
+C:\Users\Vinh Nguyen\Documents\GitHub\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.Form1.resources
+C:\Users\Vinh Nguyen\Documents\GitHub\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.Properties.Resources.resources
+C:\Users\Vinh Nguyen\Documents\GitHub\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.csproj.GenerateResource.cache
+C:\Users\Vinh Nguyen\Documents\GitHub\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.csproj.CoreCompileInputs.cache
+C:\Users\Vinh Nguyen\Documents\GitHub\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.csproj.CopyComplete
+C:\Users\Vinh Nguyen\Documents\GitHub\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.exe
+C:\Users\Vinh Nguyen\Documents\GitHub\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.pdb
+C:\Users\Vinh Nguyen\Documents\GitHub\SimulationSort1\SimulationSortApp\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Vinh Nguyen\Documents\GitHub\SimulationSort1\SimulationSortApp\bin\Debug\Bunifu.Core.dll
+C:\Users\HuỳnhPhươngDuy\Desktop\SimulationSort\New folder\SimulationSort1\SimulationSortApp\bin\Debug\Bunifu.Core.dll
+C:\Users\HuỳnhPhươngDuy\Desktop\SimulationSort\New folder\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.AboutForm.resources
+C:\Users\Vinh Nguyen\Documents\GitHub\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.AboutForm.resources
+C:\Users\HuỳnhPhươngDuy\Desktop\SimulationSort\New folder\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.InstrucForm.resources
+C:\Users\Admin\Desktop\Project LTTQ\SimulationSort1\SimulationSortApp\bin\Debug\Bunifu.Core.dll
+C:\Users\Admin\Desktop\Project LTTQ\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.AboutForm.resources
+C:\Users\Admin\Desktop\Project LTTQ\SimulationSort1\SimulationSortApp\obj\Debug\SimulationSortApp.InstrucForm.resources

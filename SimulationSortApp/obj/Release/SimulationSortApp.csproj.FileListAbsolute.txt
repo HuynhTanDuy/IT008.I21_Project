@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\Project LTTQ\SimulationSort1\SimulationSortApp\bin\Release\SimulationSortApp.exe.config
+C:\Users\Admin\Desktop\Project LTTQ\SimulationSort1\SimulationSortApp\obj\Release\SimulationSortApp.Form1.resources
+C:\Users\Admin\Desktop\Project LTTQ\SimulationSort1\SimulationSortApp\obj\Release\SimulationSortApp.Properties.Resources.resources
+C:\Users\Admin\Desktop\Project LTTQ\SimulationSort1\SimulationSortApp\obj\Release\SimulationSortApp.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Project LTTQ\SimulationSort1\SimulationSortApp\bin\Release\SimulationSortApp.exe
+C:\Users\Admin\Desktop\Project LTTQ\SimulationSort1\SimulationSortApp\bin\Release\SimulationSortApp.pdb
+C:\Users\Admin\Desktop\Project LTTQ\SimulationSort1\SimulationSortApp\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\Admin\Desktop\Project LTTQ\SimulationSort1\SimulationSortApp\obj\Release\SimulationSortApp.exe
+C:\Users\Admin\Desktop\Project LTTQ\SimulationSort1\SimulationSortApp\obj\Release\SimulationSortApp.pdb
